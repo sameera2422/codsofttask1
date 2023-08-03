@@ -1,0 +1,99 @@
+.navbar{
+    margin-bottom: 0;
+}
+.main{
+    display: flex;
+    background-color: rgb(9, 129, 81);
+    background-size: cover;
+    height: 5vh;
+    padding: 5px;
+}
+.one{
+    color: rgb(10, 7, 10);
+    font-size: 17px;
+    text-decoration: none;
+    padding-left: 50px;
+}
+.two{
+    float: left;
+    color: #0f060f;
+    font-size: 20px;
+    text-decoration: none;
+    padding-left: 350px;
+    
+}
+.three{
+    float: left;
+    color: rgb(14, 9, 14);
+    font-size: 20px;
+    text-decoration: none;
+    padding-left: 25px;
+
+}.top-section{
+    background-color: black;
+    height: 30vh;
+    background-size: cover;
+    padding: 12px;
+    font-style: "Roboto";
+    color: white;
+}
+.head1{
+    font-weight: bold;
+    font-size: 20px;
+}
+.para1{
+    font-size: 15px5
+}
+.image1{
+    width: 170px;
+    height: 100px;
+}
+.bottom-section{
+    background-color: green;
+    height: 160vh;
+    background-size: cover;
+}
+.head2{
+    font-weight: bold;
+    padding: 12px;
+}
+.card1{
+    height: 250px;
+    width: 750px;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 8px;
+    background-color: darkolivegreen;
+}
+.head3{
+    font-size: 19px;
+    font-weight: bold;
+}
+.para2{
+    font-size: 16px;
+}
+.image2{
+    width: 100px;
+    height: 100px;
+}
+.head4{
+    font-weight: bold;
+    padding: 15px;
+    font-size: 17px;
+}
+.image3{
+    padding: 6px;
+    width: 150px;
+    height: 150px;
+}
+
+.button{
+    margin-top: 20px;
+    margin-left: 120px;
+}
+.mark1{
+    background-color: darkolivegreen;
+    text-decoration: underline;
+    color: blue;
+    
+}
